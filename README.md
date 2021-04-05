@@ -1,5 +1,4 @@
-# valid_braces with php
-Check for balanced brackets.
+
 
    function validBraces($braces) {
        $opened = array();
